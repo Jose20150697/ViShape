@@ -7,7 +7,7 @@ José Maria Castellanos Hernández (1), Andrea Joselín Martínez Sánchez(2).
 
  (1) Universidad de Colima,  [jcastellanos@ucol.mx](mailto:jcastellanos@ucol.mx) . (2) Universidad de Colima, amartinez39@ucol.mx
 
-Resumen
+**Resumen**
 
 Se pretende desarrollar un programa que cumpla con los aspectos solicitados por el maestro con el fin de fortalecer la forma de que el alumno pueda integrar en un solo proyecto todos sus conocimientos, para ello se creará un código en lenguaje Python 2.7.
 
@@ -15,7 +15,7 @@ La idea de llevar a cabo este proyecto surgió de la incertidumbre de tener un a
 
 **Palabras clave** : Shapefile, Python 2.7,  Código.
 
-Abstract
+**Abstract
 
 It is intended to develop a program that meets the aspects requested by the teacher in order to strengthen the student&#39;s way of being able to integrate all their knowledge into a single project, for which a code in Python 2.7 language will be created.
 
@@ -23,8 +23,7 @@ The idea of ​​carrying out this project arose from the uncertainty of having
 
 **Keywords** : Shapefile, Python 2.7, Code
 
-1.
-  1. 1. INTRODUCCIÓN.
+# 1. INTRODUCCIÓN.
 
 Dentro del programa de estudio de la materia programación ll está contemplado el desarrollo de un proyecto final en el cual se pongan en práctica todos aquellos conocimientos adquiridos en la materia de programación l y ll.
 
